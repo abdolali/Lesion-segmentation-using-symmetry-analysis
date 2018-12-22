@@ -1,6 +1,6 @@
 # Lesion-segmentation-using-symmetry-analysis<br />
 
-All Images belong to a patient <br />
+All Images belong to one case <br />
 "Maxilla_1" and "Maxilla_1_Loop_after_flip_2" are for 2D segmentaion<br />
 (it's necessary to add siftDemoV4 and SYM to matlab path, and also download MIRT toolbox for registration)<br />
 
